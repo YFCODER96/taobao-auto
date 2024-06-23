@@ -1,0 +1,178 @@
+2024年6月22日 11:31:05：设备ID B58621487AA1A93DA7F789A5709DDC3634A380DCC40A41910B9AA8CDFF8F8B01704F2BAF435BB6D9
+2024年6月22日 11:31:05：请于 关于->用户协议 查看完整版小瓶RPA用户授权协议
+2024年6月22日 11:31:05：基座服务端口：49888
+2024年6月22日 11:31:06：-
+2024年6月22日 11:31:06： [赞助商推广] 团队奖金管理激励系统，低至￥298/年，更多云应用搜索小瓶云
+2024年6月22日 11:31:06：-
+2024年6月22日 11:31:06：正在自动免费授权...
+2024年6月22日 11:31:08：✅ 免费个人版授权成功！
+2024年6月22日 11:31:08：----
+2024年6月22日 11:31:08：检测 NodeJS 是否安装 & 显示版本号：
+2024年6月22日 11:31:08：※※ 脚本执行状态就绪 ※※
+2024年6月22日 11:31:08：警告：未安装脚本引擎 NodeJS 下载安装说明：https://rpa.pbottle.com/a-13943.html
+2024年6月22日 11:31:08：检测 Python 是否安装 & 显示版本号：
+2024年6月22日 11:31:08：※※ 脚本执行状态就绪 ※※
+2024年6月22日 11:31:08：----
+2024年6月22日 19:37:57：设备ID B58621487AA1A93DA7F789A5709DDC3634A380DCC40A41910B9AA8CDFF8F8B01704F2BAF435BB6D9
+2024年6月22日 19:37:57：请于 关于->用户协议 查看完整版小瓶RPA用户授权协议
+2024年6月22日 19:37:57：基座服务端口：49888
+2024年6月22日 19:37:57：-
+2024年6月22日 19:37:57： [赞助商推广] 商业客户端（上位机）软件定制开发服务，认准北京小瓶科技
+2024年6月22日 19:37:57：-
+2024年6月22日 19:37:58：正在自动免费授权...
+2024年6月22日 19:37:58：✅ 免费个人版授权成功！
+2024年6月22日 19:37:58：----
+2024年6月22日 19:37:58：检测 NodeJS 是否安装 & 显示版本号：
+2024年6月22日 19:37:58：v20.15.0
+2024年6月22日 19:37:58：※※ 脚本执行状态就绪 ※※
+2024年6月22日 19:37:58：检测 Python 是否安装 & 显示版本号：
+2024年6月22日 19:37:58：※※ 脚本执行状态就绪 ※※
+2024年6月22日 19:37:58：----
+2024年6月22日 19:38:18：----
+2024年6月22日 19:38:18：检测 NodeJS 是否安装 & 显示版本号：
+2024年6月22日 19:38:18：v20.15.0
+2024年6月22日 19:38:18：※※ 脚本执行状态就绪 ※※
+2024年6月22日 19:38:18：检测 Python 是否安装 & 显示版本号：
+2024年6月22日 19:38:18：※※ 脚本执行状态就绪 ※※
+2024年6月22日 19:38:18：----
+2024年6月22日 19:57:28：※※ 手动停止执行脚本！※※
+2024年6月22日 19:57:54：选择运行脚本：D:/OneDrive/文档/小瓶RPA录制脚本20240622-195737.js
+2024年6月22日 19:57:54：※※ 开始执行脚本 ※※
+2024年6月22日 19:57:54：node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module './pbottleRPA'
+Require stack:
+- D:\OneDrive\文档\小瓶RPA录制脚本20240622-195737.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\OneDrive\文档\小瓶RPA录制脚本20240622-195737.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\OneDrive\\文档\\小瓶RPA录制脚本20240622-195737.js' ]
+}
+
+Node.js v20.15.0
+
+2024年6月22日 19:57:54：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:30:53：错误：脚本已经不存在！
+2024年6月22日 23:31:15：选择运行脚本：D:/YFBC/xiaoping-rpa/app.js
+2024年6月22日 23:31:15：※※ 开始执行脚本 ※※
+2024年6月22日 23:31:15：node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module './pbottleRPA'
+Require stack:
+- D:\YFBC\xiaoping-rpa\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\YFBC\xiaoping-rpa\app.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\YFBC\\xiaoping-rpa\\app.js' ]
+}
+
+Node.js v20.15.0
+
+2024年6月22日 23:31:15：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:32:42：※※ 手动重启脚本 ※※
+2024年6月22日 23:32:42：node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module './pbottleRPA'
+Require stack:
+- D:\YFBC\xiaoping-rpa\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\YFBC\xiaoping-rpa\app.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\YFBC\\xiaoping-rpa\\app.js' ]
+}
+
+Node.js v20.15.0
+
+2024年6月22日 23:32:42：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:33:20：设备ID B58621487AA1A93DA7F789A5709DDC3634A380DCC40A41910B9AA8CDFF8F8B01704F2BAF435BB6D9
+2024年6月22日 23:33:20：请于 关于->用户协议 查看完整版小瓶RPA用户授权协议
+2024年6月22日 23:33:20：基座服务端口：49888
+2024年6月22日 23:33:20：-
+2024年6月22日 23:33:20： [赞助商推广] 团队奖金管理激励系统，低至￥298/年，更多云应用搜索小瓶云
+2024年6月22日 23:33:20：-
+2024年6月22日 23:33:20：正在自动免费授权...
+2024年6月22日 23:33:20：✅ 免费个人版授权成功！
+2024年6月22日 23:33:20：----
+2024年6月22日 23:33:20：检测 NodeJS 是否安装 & 显示版本号：
+2024年6月22日 23:33:20：v20.15.0
+2024年6月22日 23:33:20：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:33:20：检测 Python 是否安装 & 显示版本号：
+2024年6月22日 23:33:21：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:33:21：----
+2024�2024年6月22日 23:43:58：选择运行脚本：C:/Users/远峰编程/Downloads/NodeJS示例/RPA演示demo V2024.7/剪切板演示脚本.js
+2024年6月22日 23:43:58：※※ 开始执行脚本 ※※
+2024年6月22日 23:43:59：基座服务地址：（NodeJS） http://127.0.0.1:49888/
+2024年6月22日 23:43:59：=== 测试 ===
+Sat Jun 22 2024 23:43:59 GMT+0800 (GMT+08:00)
+2024年6月22日 23:44:00：超级剪切板 新版剪切板已经支持获取图片、网页格式内容
+2024年6月22日 23:44:06：已经将文字复制到您的剪切板，赶紧粘贴试试吧
+2024年6月22日 23:44:12：清空定时任务
+2024年6月22日 23:44:12：获取当前剪切板文本： 小瓶RPA官网：https://rpa.pbottle.com/
+复制文件模拟操作：
+2024年6月22日 23:44:12：剪切板文件路径： file:///C:/Users/远峰编程/Downloads/NodeJS示例/RPA演示demo V2024.7/pbottleRPA.js
+准备结束脚本
+2024年6月22日 23:44:12：※※ 脚本执行状态就绪 ※※
+in:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\YFBC\\xiaoping-rpa\\app.js' ]
+}
+
+Node.js v20.15.0
+
+2024年6月22日 23:33:28：※※ 脚本执行状态就绪 ※※
+2024年6月22日 23:42:13：选择运行脚本：D:/YFBC/xiaoping-rpa/app.js
+2024年6月22日 23:42:13：※※ 开始执行脚本 ※※
+2024年6月22日 23:42:13：node:internal/modules/cjs/loader:1148
+  throw err;
+  ^
+
+Error: Cannot find module './pbottleRPA.js'
+Require stack:
+- D:\YFBC\xiaoping-rpa\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1145:15)
+    at Module._load (node:internal/modules/cjs/loader:986:27)
+    at Module.require (node:internal/modules/cjs/loader:1233:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (D:\YFBC\xiaoping-rpa\app.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ 'D:\\YFBC\\xiaoping-rpa\\app.js' ]
+}
+
+Node.js v20.15.0
+
+2024年6月22日 23:42:13：※※ 脚本执行状态就绪 ※※

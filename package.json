@@ -1,0 +1,17 @@
+{
+  "name": "xiaoping-rpa",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "keycode": "^2.2.0",
+    "sync-request": "^6.1.0"
+  }
+}
